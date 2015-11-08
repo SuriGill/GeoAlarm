@@ -1,1 +1,3 @@
 # YHacks2015
+
+GeoAlarm is a web app running on JavaScript that provides the User to enter in a location, name of alarm, and distance to location which will then create a personalized alarm that will alert the user when they get in range of their desired distance from their location. GeoAlarm adds multiple alarms and users can switch between alarms by clicking on their desired alarm from the taskbar. GeoAlarm also will be able to log into facebook users' accounts to remember previous locations and connect with their friends. This is meant to be a dedicated towards a mapping application and will be a subsection of it. 
